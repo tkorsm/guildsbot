@@ -1,0 +1,17 @@
+{
+  "name": "guildsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js#4fe579aa694a",
+    "is-image-url": "^1.1.8",
+    "kayn": "^0.10.2",
+    "seedrandom": "^3.0.5"
+  }
+}
